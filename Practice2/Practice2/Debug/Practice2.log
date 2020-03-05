@@ -1,3 +1,5 @@
-﻿  Practice2.cpp
-c:\users\aoi\source\repos\competition\practice2\practice2\practice2.cpp(26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
-  Practice2.vcxproj -> C:\Users\aoi\source\repos\Competition\Practice2\Debug\Practice2.exe
+﻿  Practice3.cpp
+  LINK : 前回のインクリメンタル リンクで C:\Users\aoi\source\repos\Competition\Practice2\Debug\Practice2.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+Practice3.obj : error LNK2005: _main は既に Practice2.obj で定義されています。
+Practice3.obj : error LNK2005: "__int64 * fibArray" (?fibArray@@3PA_JA) は既に Practice2.obj で定義されています。
+C:\Users\aoi\source\repos\Competition\Practice2\Debug\Practice2.exe : fatal error LNK1169: 1 つ以上の複数回定義されているシンボルが見つかりました。
