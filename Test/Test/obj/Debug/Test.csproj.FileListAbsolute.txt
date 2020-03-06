@@ -1,0 +1,7 @@
+C:\Users\aoi\source\repos\Competition\Test\Test\bin\Debug\Test.exe.config
+C:\Users\aoi\source\repos\Competition\Test\Test\bin\Debug\Test.exe
+C:\Users\aoi\source\repos\Competition\Test\Test\bin\Debug\Test.pdb
+C:\Users\aoi\source\repos\Competition\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\aoi\source\repos\Competition\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\aoi\source\repos\Competition\Test\Test\obj\Debug\Test.exe
+C:\Users\aoi\source\repos\Competition\Test\Test\obj\Debug\Test.pdb
